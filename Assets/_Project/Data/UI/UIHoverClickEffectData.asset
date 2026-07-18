@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c7e4014e961d8704a8f660ba938bed44, type: 3}
+  m_Name: UIHoverClickEffectData
+  m_EditorClassIdentifier: GmtkJam2026::GmtkJam2026.UIHoverClickEffectData
+  HoverScale: 1.1
+  HoverDuration: 0.2
+  HoverEase: 9
+  HoverSound: {fileID: 0}
+  ClickScale: 0.9
+  ClickDuration: 0.1
+  ClickSound: {fileID: 0}

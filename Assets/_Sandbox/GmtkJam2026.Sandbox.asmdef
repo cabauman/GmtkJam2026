@@ -1,0 +1,17 @@
+{
+    "name": "GmtkJam2026.Sandbox",
+    "rootNamespace": "GmtkJam2026.Sandbox",
+    "references": [
+        "GmtkJam2026",
+        "Unity.TextMeshPro"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

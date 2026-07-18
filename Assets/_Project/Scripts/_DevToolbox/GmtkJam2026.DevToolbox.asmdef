@@ -1,0 +1,14 @@
+{
+    "name": "GmtkJam2026.DevToolbox",
+    "rootNamespace": "GmtkJam2026.DevToolbox",
+    "references": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

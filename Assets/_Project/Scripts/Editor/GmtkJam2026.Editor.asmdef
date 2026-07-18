@@ -1,0 +1,16 @@
+{
+    "name": "GmtkJam2026.Editor",
+    "rootNamespace": "GmtkJam2026.Editor",
+    "references": [
+        "GmtkJam2026"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,0 +1,20 @@
+{
+    "name": "GmtkJam2026",
+    "rootNamespace": "GmtkJam2026",
+    "references": [
+        "GmtkJam2026.DevToolbox",
+        "Unity.TextMeshPro",
+        "PrimeTween.Runtime",
+        "Unity.InputSystem",
+        "Unity.Cinemachine"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
